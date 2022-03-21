@@ -1,7 +1,7 @@
 if (time < 10) {
-  greeting = "Good morning!!";
+  greeting = "Top of the morning to ya";
 } else if (time < 20) {
   greeting = "Good day!!";
 } else {
-  greeting = "Good evening!!";
+  greeting = "Goooood evening";
 }
