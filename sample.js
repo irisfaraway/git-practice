@@ -3,5 +3,5 @@ if (time < 10) {
 } else if (time < 20) {
   greeting = "Good day to you, friend! Hope you are very well";
 } else {
-  greeting = "Good evening!!";
+  greeting = "Good evening my very good friend!!";
 }
